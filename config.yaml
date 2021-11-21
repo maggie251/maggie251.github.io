@@ -1,0 +1,123 @@
+baseURL: "https://hugo-profile.netlify.app"
+languageCode: "en-us"
+title: "Mageshwari's Portfolio"
+theme: "./.."
+relativeURLs: true
+
+googleanalytics: UA-xxxxxx-x
+disqusShortname:
+Paginate: 3
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+enableEmoji: true
+params:
+  version: 3
+  customCSS: false
+
+  # home
+  disable_home: false
+  profile_image: /images/profile_img.jpg
+  name: "Mageshwari Gnanasekkar"
+  namecolor: ff0090
+  profession: "Student"
+  github: "https://github.com/maggie251?tab=overview&from=2020-12-01&to=2020-12-31"
+  linkedin: ""
+
+  # About
+  disable_about: false
+  descripe_l1_person: "I am MAGESHWARI G from VELLORE. I am currently pursing my B.Tech in computer science at amrita school of engineering, Chennai campus.."
+  descripe_l2_person: "I know languages C, C++, Python and Java. I am most comfortable with C++. I have done a couple of datascience and development projects using java and  python. I am an optimistic person. I can adapt to any kind of environment and learn any new technology given time."
+  skills:
+    - name: C
+      percentage: 90
+    - name: C++
+      percentage: 85
+    - name: Python
+      percentage: 80
+    - name: CSS
+      percentage: 70
+    - name: Java
+      percentage: 80
+    - name: JavaScript
+      percentage: 75
+    - name: HTML5
+      percentage: 95
+    - name: Sql
+      percentage: 80
+  # Experience
+  disable_experience: false
+  experience:
+   - company: "Cisco"
+     role: "Cyber Security Virtual Internship Program"
+     startdate: May 2021
+     enddate: August 2021
+     featuredpoints:
+       - point: Completed Netcad courses
+       - point: Designed a networ for our college.
+
+  # Education
+  disable_education: false
+  education:
+    - degree: "B.Tech"
+      branch: "Computer Science and Engineering"
+      university: "Amrita Vishwa Vidhyapeetham"
+      startedyear: "2019"
+      graduation: "2023"
+    - degree: "12th-HSC"
+      branch: "81.26%"
+      university: "St. John's Matric.Hr. School, Vellore"
+      startedyear: "2017"
+      graduation: "2018"
+    - degree: "10th SSLC "
+      branch: "96.4%"
+      university: "St. John's Matric.Hr. School, Vellore"
+      startedyear: "2017"
+      graduation: "2016"
+
+  # Projects
+  disable_projects: false
+  projects:
+    - name: "IPL Powerplay Prediction"
+      img: /images/download.jfif
+      description: "Predicting the powerplay score during match."
+    - name: "Election Result Prediction"
+      img: /images/OIP.jfif
+      description: "Predicting Election results from the previous year's result"
+    - name: "Car rental Management System"
+      img: /images/car.jfif
+      description: "System for car rental services"
+    - name: "Music Player"
+      img: /images/music.jfif
+      description: "Online Music player"
+    - name: "Network Model"
+      img: /images/network.jfif
+      description: "Secure Network Model for our college"
+
+  # Achievements
+
+  disable_achievements: true
+  achievements:
+    - title: Phobos
+      description: Winners in paper presentation. Presented 
+      img: /images/aws.jpg
+      url: https://devpost.com/software/genie-7rqjby
+
+  # Contact
+  disable_contact: false
+  contact_content: My inbox is constantly open. I'll do my best to respond to you, whether you have a question or simply want to say hello!
+  email: "magisekkar251@gmail.com"
+
+  # Footer
+  socialiconfooter: true
+  recentposts: true
+
+  # Blog
+  showdescription: true
+
