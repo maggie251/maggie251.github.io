@@ -108,7 +108,7 @@ params:
   achievements:
     - title: Phobos
       description: Winners in paper presentation. Presented 
-      img: /images/aws.jpg
+      img: /images/phobos.jpeg
       url: https://devpost.com/software/genie-7rqjby
 
   # Contact
