@@ -101,7 +101,7 @@ params:
 
   # Achievements
 
-  disable_achievements: true
+  disable_achievements: false
   achievements:
     - title: Phobos
       description: Winners in paper presentation. Presented 
