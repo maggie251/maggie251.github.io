@@ -98,6 +98,9 @@ params:
     - name: "Network Model"
       img: /images/network.jfif
       description: "Designed a Network Model for our college"
+    - name: "Computer Association Website"
+      img: /images/
+      description: "Designed a Club Management system using NodeJs"
 
   # Achievements
 
