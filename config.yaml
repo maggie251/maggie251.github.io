@@ -109,7 +109,6 @@ params:
     - title: Phobos
       description: Winners in paper presentation. Presented 
       img: /images/Phobos.jpeg
-      url: https://devpost.com/software/genie-7rqjby
 
   # Contact
   disable_contact: false
