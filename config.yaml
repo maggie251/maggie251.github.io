@@ -77,8 +77,8 @@ params:
     - degree: "10th SSLC "
       branch: "96.4%"
       university: "St. John's Matric.Hr. School, Vellore"
-      startedyear: "2017"
-      graduation: "2016"
+      startedyear: "2016"
+      graduation: "2017"
 
   # Projects
   disable_projects: false
