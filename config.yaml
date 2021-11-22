@@ -26,7 +26,6 @@ params:
   name: "Mageshwari Gnanasekkar"
   namecolor: ff0090
   profession: "Student"
-  github: "https://github.com/maggie251?tab=overview&from=2020-12-01&to=2020-12-31"
   linkedin: ""
 
   # About
@@ -59,7 +58,7 @@ params:
      enddate: August 2021
      featuredpoints:
        - point: Completed Netcad courses
-       - point: Designed a networ for our college.
+       - point: Designed a network for our college.
 
   # Education
   disable_education: false
