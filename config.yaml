@@ -31,7 +31,7 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "I am MAGESHWARI G from VELLORE. I am currently pursing my B.Tech in computer science at amrita school of engineering, Chennai campus.."
-  descripe_l2_person: "I know languages C, C++, Python and Java. I am most comfortable with C++. I have done a couple of datascience and development projects using java and  python. I am an optimistic person. I can adapt to any kind of environment and learn any new technology given time."
+  descripe_l2_person: "I know languages C, C++, Python and Java. I am most comfortable with C++. I have done a couple of datascience and development projects using java and  python. I am an optimistic person. I can adapt to any kind of environment and learn any new technology given time.You can find my resume [here](https://github.com/maggie251/maggie251.github.io/raw/source/static/Mageshwari%20Resume-converted.pdf)"
   skills:
     - name: C
       percentage: 90
